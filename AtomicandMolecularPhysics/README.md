@@ -4,7 +4,7 @@ This folder contains the different projects for the practical session in the cou
 Running the Jupyter Notebooks online using mybinder
 ===================================================
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmod/QuantumCourses/tree/master/AtomicandMolecularPhysics)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmod/QuantumCourses/tree/master/AtomicandMolecularPhysics/master)
 
 Please click on the badge above to start an online version of the notebooks without installation requirements.
 
